@@ -1,0 +1,5 @@
+﻿;Processors;Speed(GHz);Power Consumption (W);Number of Cores
+0;Intel i5-10400F;2,9;65;6
+1;AMD Ryzen 7 5800X;3,8;105;8
+2;Intel i7-12700K;3,6;125;12
+;;;;
